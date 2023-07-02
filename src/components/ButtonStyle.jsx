@@ -6,7 +6,7 @@ border-radius: 8px;
 background-color: aqua;
 color:black;
 font-size: 20px;
-padding: 4px;
+padding: 8px;
 `
 
 export const Wrapper = styled.div`
